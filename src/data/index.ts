@@ -74,6 +74,12 @@ const work = [
 
 const projects = [
   {
+    name: "Rivelmo",
+    desc: "Rivelmo is a multi-vendor e-commerce website that allows businesses to manage their shops online and increase their sales",
+    linkOne: "https://market.rivelmo.com",
+    linkTwo: "https://github.com/trace-panic"
+  },
+  {
     name: "Free Learning Hub",
     desc: "An online platform offering free educational resources and courses to enhance learning in various subjects.",
     linkOne: "https://free-learning-hub.vercel.app/",
