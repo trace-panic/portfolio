@@ -53,22 +53,22 @@ const interests = [
 
 const work = [
   {
-    name: "GODAN Kenya",
-    from: "8/2024",
+    name: "Rivelmo",
+    from: "10/2024",
     to: "Present",
-    title: "Lead Frontend Developer",
+    title: "Full Stack Developer",
   },
   {
     name: "Power Learn Project",
     from: "6/2024",
     to: "9/2024",
-    title: "Internship (Ass. Learner Experience Manager)",
+    title: "Ass. Learner Experience Manager",
   },
   {
     name: "GODAN Kenya",
     from: "4/2024",
     to: "7/2024",
-    title: "Internship (Frontend Dev)",
+    title: "Frontend Developer",
   },
 ];
 
